@@ -39,7 +39,7 @@ sections:
 
         Please reach out to collaborate 😃
 
-        I am currently looking for Posdoc position in related areas.
+        I am currently looking for Posdoc position in areas such as AI4Sci, Graph learning for different paradigms (e.g., federated learning, continual learning, OOD), and optimization in graph learning.
     design:
       columns: '1'
   # - block: collection
