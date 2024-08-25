@@ -39,9 +39,10 @@ profiles:
 
 
 interests:
-  - Graph learning
+  - Graph learning and generation
   - Machine learning theory and algorithm
   - Machine learning system
+  - AI4Science
 
 education:
   - area: PhD Computer Science

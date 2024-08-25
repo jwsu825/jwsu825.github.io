@@ -38,6 +38,8 @@ sections:
         I am interested in algorithm design and understanding in general. My current reserach focus is on machine leanring theory and algorithm. In particular, my main focus has been on machine learning with graph data.
 
         Please reach out to collaborate 😃
+
+        I am currently looking for Posdoc position in related areas.
     design:
       columns: '1'
   # - block: collection
