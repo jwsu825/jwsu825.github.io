@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selffie_prof.png"
+  avatar           : "profile.png"
   name             : "Junwei Su (苏骏炜)"
   pronouns         : # example: "she/her"  
   bio              : "Researcher, Sport Lover, Foodie"
