@@ -9,7 +9,7 @@ redirect_from:
 
 I am a computer science researcher specializing in machine learning, with a strong emphasis on methodology and problem-solving processes rather than focusing on any one specific problem. My research spans theory, algorithms, and systems for machine learning, and I also occasionally explore topics in computational sociology and economics. I completed my undergraduate studies at the University of British Columbia, where I studied computer engineering and pure mathematics. I then pursued a Master's degree at the University of Toronto, researching computational social networks under the supervision of Prof. Peter Marbach. I earned my PhD from the University of Hong Kong, where I have had the privilege of working with Prof. Chuan Wu (highly recommended for those interested in large-scale machine learning algorithms and systems) and Prof. Difan Zou (highly recommended for those interested in the fundamental aspects of machine learning).
 
-I will be joining the University of Science and Technology of China (USTC) by the end of 2025. I am currently seeking research assistants with a strong background in mathematics and programming to collaborate on projects at the intersection of machine learning theory, algorithms, and systems. Successful candidates may have the opportunity to transition into a PhD position at USTC or receive recommendations and connections to other internationally reputed institutions. If you are interested in working with me, please email a brief introduction, your background, and the research areas or projects you are interested in pursuing.
+I will be joining the University of Science and Technology of China (USTC) as an associate professor by the end of 2025. I am currently seeking research assistants with a strong background in mathematics and programming to collaborate on projects at the intersection of machine learning theory, algorithms, and systems. Successful candidates may have the opportunity to transition into a PhD position at USTC or receive recommendations and connections to other internationally reputed institutions. If you are interested in working with me, please email a brief introduction, your background, and the research areas or projects you are interested in pursuing.
 
 
 Education
@@ -33,8 +33,12 @@ Working Projects
 2. **Second-Generation Machine Learning Systems: Co-Design of Theory, Algorithms, and Systems**  
    A project aimed at creating the next generation of machine learning systems by integrating theoretical advancements with practical system-level design, optimizing both algorithmic efficiency and system architecture.
 
-3. **AI for Science**  
-   Exploring the intersection of artificial intelligence and scientific research, this project focuses on applying machine learning methods to solve complex scientific problems, ranging from computational physics to biology and environmental science.
+3. **AI for Science and Operational Research**  
+   Exploring the intersection of artificial intelligence and scientific/operational research, this project focuses on applying machine learning methods to solve complex scientific/operational problems, ranging from computational physics to biology and environmental science.
+
+4. **Data-Efficient Machine Learning**  
+   Focusing on developing machine learning models that require fewer data samples while maintaining high performance, with a focus on improving generalization, reducing training costs and improving the data curation process.
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
