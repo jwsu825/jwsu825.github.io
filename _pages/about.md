@@ -23,10 +23,8 @@ News
 Education
 ======
 - **Doctor of Philosophy (Computer Science)**  
-  University of Hong Kong  
-  
-  Hong Kong PhD Fellowship Scheme (HKPFS)
-
+  University of Hong Kong  \\
+  Hong Kong PhD Fellowship Scheme (HKPFS) \\
   University of Hong Kong Presidential Scholar
 
 - **Master of Science (Computer Science)**  
