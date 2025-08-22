@@ -12,15 +12,17 @@ I am a computer science researcher specializing in machine learning, with a stro
 I will be joining the University of Science and Technology of China (USTC) as an associate professor by the end of 2025. I am currently seeking research assistants with a strong background in mathematics and programming to collaborate on projects at the intersection of machine learning theory, algorithms, and systems. Successful candidates may have the opportunity to transition into a PhD position at USTC or receive recommendations and connections to other internationally reputed institutions. If you are interested in working with me, please email a brief introduction, your background, and the research areas or projects you are interested in pursuing.
 
 News
-======
+------
 - will serve as an Area Chair for ICLR 2026
 
 
 
 Education
-======
-- **Doctor of Philosophy (Computer Science, HKPFS)**  
+------
+- **Doctor of Philosophy (Computer Science)**  
   University of Hong Kong  
+  Hong Kong PhD Fellowship Scheme (HKPFS)
+  University of Hong Kong Presidential Scholar
 
 - **Master of Science (Computer Science)**  
   University of Toronto  
@@ -31,7 +33,7 @@ Education
 
 
 Working Projects
-======
+------
 1. **Trustworthy and Efficient Graph Learning**  
    Focused on developing scalable and reliable graph learning algorithms that prioritize both performance and interpretability, with applications in large-scale networks and real-time systems.
 
