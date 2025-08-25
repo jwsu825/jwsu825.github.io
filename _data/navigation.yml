@@ -30,5 +30,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  # - title: "My User Interface"
-  #   url: /markdown/
+  - title: "Some Guides"
+    url: https://junweisu.notion.site/My-User-Interface-2575408431c1801bb157e331d9befd1f?source=copy_link
