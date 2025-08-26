@@ -50,6 +50,9 @@ Working Projects
 4. **Data-Efficient Machine Learning**  
    Focusing on developing machine learning models that require fewer data samples while maintaining high performance, with a focus on improving generalization, reducing training costs and improving the data curation process.
 
+5. **Multi-Agent System**  
+   This project seeks to better understand the dynamics of multi-agent systems (MAS) and to develop mechanisms and learning algorithms that enhance the performance of MAS.
+
 ------
 
 Professional Services
