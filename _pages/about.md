@@ -15,8 +15,9 @@ I will be joining the University of Science and Technology of China (USTC) as an
 
 News
 ======
-- will serve as an Area Chair for ICLR 2026
-
+- will serve as an Area Chair for ICLR 2026\\
+- one paper (as corresponding author) is accepted in VLDB 2025\\
+- three papers (as first author) are accepted in ICML 2025
 
 ------
 
