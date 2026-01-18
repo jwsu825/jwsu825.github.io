@@ -9,12 +9,13 @@ redirect_from:
 
 I am a computer science researcher specializing in machine learning, with a strong emphasis on methodology and problem-solving processes rather than focusing on any one specific problem. My research spans theory, algorithms, and systems for machine learning, and I also occasionally explore topics in computational sociology and economics. I completed my undergraduate studies at the University of British Columbia, where I studied computer engineering and pure mathematics. I then pursued a Master's degree at the University of Toronto, researching computational social networks under the supervision of Prof. Peter Marbach. I earned my PhD from the University of Hong Kong, where I have had the privilege of working with Prof. Chuan Wu (highly recommended for those interested in large-scale machine learning algorithms and systems) and Prof. Difan Zou (highly recommended for those interested in the fundamental aspects of machine learning). Please see my CV or my google scholar for the publication records.
 
-I will be joining the University of Science and Technology of China (USTC) as an associate professor by the end of 2025. I am currently seeking research assistants with a strong background in mathematics and programming to collaborate on projects at the intersection of machine learning theory, algorithms, and systems. Successful candidates may have the opportunity to transition into a PhD position at USTC or receive recommendations and connections to other internationally reputed institutions. If you are interested in working with me, please email a brief introduction, your background, and the research areas or projects you are interested in pursuing.
+I will be joining the University of Science and Technology of China (USTC) as an associate professor. I am currently seeking research assistants with a strong background in mathematics and programming to collaborate on projects at the intersection of machine learning theory, algorithms, and systems. Successful candidates may have the opportunity to transition into a PhD position at USTC or receive recommendations and connections to other internationally reputed institutions. If you are interested in working with me, please email a brief introduction, your background, and the research areas or projects you are interested in pursuing.
 
 ------
 
 News
 ======
+- one paper (as first author) is accepted to Transaction on Economic and Computation
 - will serve as an Area Chair for ICLR 2026
 - one paper (as corresponding author) is accepted in VLDB 2025
 - three papers (as first author) are accepted in ICML 2025
