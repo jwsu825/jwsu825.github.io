@@ -15,6 +15,7 @@ I will be joining the University of Science and Technology of China (USTC) as an
 
 News
 ======
+- one paper (as first author) is accepted to SIAM Journal on Mathematics of Data Science
 - one paper (as first author) is accepted to Transaction on Economic and Computation
 - will serve as an Area Chair for ICLR 2026
 - one paper (as corresponding author) is accepted in VLDB 2025
