@@ -15,12 +15,13 @@ I will be joining the University of Science and Technology of China (USTC) as an
 
 News
 ======
-- two papers (one corresponding author) are accepted to ICLR 2026! Congrat!
+- one paper (as corresponding author) is accepted EuroSys 2026
+- two papers (one corresponding author) are accepted to ICLR 2026
 - one paper (as first author) is accepted to SIAM Journal on Mathematics of Data Science
 - one paper (as first author) is accepted to Transaction on Economic and Computation
 - will serve as an Area Chair for ICLR 2026
-- one paper (as corresponding author) is accepted in VLDB 2025
-- three papers (as first author) are accepted in ICML 2025
+- one paper (as corresponding author) is accepted to VLDB 2025
+- three papers (as first author) are accepted to ICML 2025
 
 ------
 
