@@ -6,15 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a (tenure-track) associate professor at the University of Science and Technology of China (USTC). I work in machine learning in general, with a strong emphasis on methodology and problem-solving processes rather than focusing on any one specific problem. My research spans theory, algorithms, and systems for machine learning, and I also occasionally explore topics in computational sociology and economics. My current focus will be mostly on efficient and trustworthy AI with algorithm-system co-design.
 
-I am a computer science researcher specializing in machine learning, with a strong emphasis on methodology and problem-solving processes rather than focusing on any one specific problem. My research spans theory, algorithms, and systems for machine learning, and I also occasionally explore topics in computational sociology and economics. I completed my undergraduate studies at the University of British Columbia, where I studied computer engineering and pure mathematics. I then pursued a Master's degree at the University of Toronto, researching computational social networks under the supervision of Prof. Peter Marbach. I earned my PhD from the University of Hong Kong, where I have had the privilege of working with Prof. Chuan Wu (highly recommended for those interested in large-scale machine learning algorithms and systems) and Prof. Difan Zou (highly recommended for those interested in the fundamental aspects of machine learning). Please see my CV or my google scholar for the publication records.
+I completed my undergraduate studies at the University of British Columbia, where I studied computer engineering and pure mathematics. I then pursued a Master's degree at the University of Toronto, researching computational social networks under the supervision of Prof. Peter Marbach. I earned my PhD from the University of Hong Kong, where I have had the privilege of working with Prof. Chuan Wu (highly recommended for those interested in large-scale machine learning algorithms and systems) and Prof. Difan Zou (highly recommended for those interested in the fundamental aspects of machine learning). Please see my CV or my google scholar for the publication records.
 
-I will be joining the University of Science and Technology of China (USTC) as an associate professor. I am currently seeking research assistants with a strong background in mathematics and programming to collaborate on projects at the intersection of machine learning theory, algorithms, and systems. Successful candidates may have the opportunity to transition into a PhD position at USTC or receive recommendations and connections to other internationally reputed institutions. If you are interested in working with me, please email a brief introduction, your background, and the research areas or projects you are interested in pursuing.
+------
+
+Advertisement
+======
+ I am currently seeking research assistants/post-graduate student with a strong background in mathematics and programming to collaborate on projects at the intersection of machine learning theory, algorithms, and systems. Successful candidates may have the opportunity to transition into a PhD position at USTC or receive recommendations and connections to other internationally reputed institutions. If you are interested in working with me, please email a brief introduction, your background, and the research areas or projects you are interested in pursuing.
 
 ------
 
 News
 ======
+- will serve as an Area Chair for Neurips 2026
 - one paper (as corresponding author) is accepted EuroSys 2026
 - two papers (one corresponding author) are accepted to ICLR 2026
 - one paper (as first author) is accepted to SIAM Journal on Mathematics of Data Science
