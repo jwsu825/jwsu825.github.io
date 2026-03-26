@@ -20,7 +20,6 @@ Advertisement
 
 News
 ======
-- will serve as an Area Chair for Neurips 2026
 - one paper (as corresponding author) is accepted EuroSys 2026
 - two papers (one corresponding author) are accepted to ICLR 2026
 - one paper (as first author) is accepted to SIAM Journal on Mathematics of Data Science
