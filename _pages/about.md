@@ -6,20 +6,36 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a (tenure-track) associate professor at the University of Science and Technology of China (USTC). I work in machine learning in general, with a strong emphasis on methodology and problem-solving processes rather than focusing on any one specific problem. My research spans theory, algorithms, and systems for machine learning, and I also occasionally explore topics in computational sociology and economics. My current focus will be mostly on efficient and trustworthy AI with algorithm-system co-design.
+I am a tenure-track Associate Professor at the University of Science and Technology of China (USTC). My research is in machine learning, with an emphasis on methodology and problem-solving processes rather than on a single narrow application domain. I work across the theory, algorithms, and systems of machine learning, especially for graph-structured, temporal, and distributed learning problems. I also occasionally explore questions in computational sociology and economics.
 
-I completed my undergraduate studies at the University of British Columbia, where I studied computer engineering and pure mathematics. I then pursued a Master's degree at the University of Toronto, researching computational social networks under the supervision of Prof. Peter Marbach. I earned my PhD from the University of Hong Kong, where I have had the privilege of working with Prof. Chuan Wu (highly recommended for those interested in large-scale machine learning algorithms and systems) and Prof. Difan Zou (highly recommended for those interested in the fundamental aspects of machine learning). Please see my CV or my google scholar for the publication records.
+My research is guided by a three-part mission:
+
+- to identify and formalize useful structure in machine learning problems;
+- to use this structure to design more efficient, scalable, and trustworthy machine learning algorithms and systems;
+- to apply principled machine learning methods to important scientific, operational, and societal problems where better models can support better decisions.
+
+My current focus is on efficient and trustworthy AI through algorithm-system co-design, with a particular interest in scientific applications. 
+
+I completed my undergraduate studies at the University of British Columbia, where I studied computer engineering and pure mathematics. I then earned an MSc in Computer Science from the University of Toronto, where I worked on computational social networks under the supervision of Prof. Peter Marbach. I received my PhD in Computer Science from the University of Hong Kong, where I was fortunate to work with Prof. Chuan Wu on large-scale machine learning algorithms and systems, and with Prof. Difan Zou on the theoretical foundations of machine learning. 
+
+Please see my CV and Google Scholar profile for my publication record.
+
 
 ------
 
-Advertisement
+## Advertisement
 ======
- I am currently seeking research assistants/post-graduate student with a strong background in mathematics and programming to collaborate on projects at the intersection of machine learning theory, algorithms, and systems. Successful candidates may have the opportunity to transition into a PhD position at USTC or receive recommendations and connections to other internationally reputed institutions. If you are interested in working with me, please email a brief introduction, your background, and the research areas or projects you are interested in pursuing.
+I am currently looking for research assistants and postgraduate students with strong backgrounds in mathematics and programming to work with me on projects at the intersection of machine learning theory, algorithms, and systems. Topics of interest include trustworthy and efficient machine learning, algorithm-system co-design for machine learning, AI for science and operational research, data-efficient machine learning, and LLM-based agentic systems.
+
+Strong candidates may have opportunities to continue into a PhD position at USTC, or to receive mentorship, recommendations, and connections for applications to internationally recognized institutions. If you are interested in working with me, please email me with a brief introduction, your background, and the research areas or projects you would like to pursue.
+
+
 
 ------
 
 News
 ======
+- will serve as a Area Chair of Neurips 2026
 - one paper (as corresponding author) is accepted EuroSys 2026
 - two papers (one corresponding author) are accepted to ICLR 2026
 - one paper (as first author) is accepted to SIAM Journal on Mathematics of Data Science
@@ -57,11 +73,8 @@ Working Projects
 3. **AI for Science and Operational Research**  
    Exploring the intersection of artificial intelligence and scientific/operational research, this project focuses on applying machine learning methods to solve complex scientific/operational problems, ranging from computational physics to biology and environmental science.
 
-4. **Data-Efficient Machine Learning**  
-   Focusing on developing machine learning models that require fewer data samples while maintaining high performance, with a focus on improving generalization, reducing training costs and improving the data curation process.
-
-5. **Multi-Agent System**  
-   This project seeks to better understand the dynamics of multi-agent systems (MAS) and to develop mechanisms and learning algorithms that enhance the performance of MAS.
+4. **Agentic System**  
+   This project seeks to better understand the dynamics of agentic and to develop mechanisms and learning algorithms that enhance the performance of agentic system.
 
 ------
 
