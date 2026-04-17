@@ -23,8 +23,8 @@ Please see my CV and Google Scholar profile for my publication record.
 
 ------
 
-## Advertisement
-
+Advertisement
+======
 I am currently looking for research assistants and postgraduate students with strong backgrounds in mathematics and programming to work with me on projects at the intersection of machine learning theory, algorithms, and systems. Topics of interest include trustworthy and efficient machine learning, algorithm-system co-design for machine learning, AI for science and operational research, data-efficient machine learning, and LLM-based agentic systems.
 
 Strong candidates may have opportunities to continue into a PhD position at USTC, or to receive mentorship, recommendations, and connections for applications to internationally recognized institutions. If you are interested in working with me, please email me with a brief introduction, your background, and the research areas or projects you would like to pursue.
