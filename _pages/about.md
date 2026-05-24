@@ -35,8 +35,10 @@ Strong candidates may have opportunities to continue into a PhD position at USTC
 
 News
 ======
+- One paper (as first author) is accepted to TMLR
+- One paper (as corresponding author) is accepted to KDD 2026
 - will serve as a Area Chair of Neurips 2026
-- one paper (as corresponding author) is accepted EuroSys 2026
+- one paper (as corresponding author) is accepted to EuroSys 2026
 - two papers (one corresponding author) are accepted to ICLR 2026
 - one paper (as first author) is accepted to SIAM Journal on Mathematics of Data Science
 - one paper (as first author) is accepted to Transaction on Economic and Computation
