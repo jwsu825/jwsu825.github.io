@@ -37,6 +37,7 @@ News
 ======
 - One paper (as first author) is accepted to TMLR
 - One paper (as corresponding author) is accepted to KDD 2026
+- received Gold Reviewer Award from ICML 2026
 - will serve as a Area Chair of Neurips 2026
 - one paper (as corresponding author) is accepted to EuroSys 2026
 - two papers (one corresponding author) are accepted to ICLR 2026
