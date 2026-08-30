@@ -8,14 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -30,5 +30,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Some Guides"
-    url: https://junweisu.notion.site/Guides-2635408431c180c08573c1904383415a?source=copy_link
+  - title: "Guides"
+    url: /guides/
