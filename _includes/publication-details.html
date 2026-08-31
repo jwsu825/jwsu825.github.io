@@ -1,0 +1,19 @@
+{% assign publication = include.publication %}
+
+<p class="publication__authors">{{ publication.authors }}</p>
+
+<p class="publication__venue">
+  <strong>{{ publication.venue }}</strong>{% if publication.publication_year %}, {{ publication.publication_year }}{% endif %}{% if publication.status %} · {{ publication.status }}{% endif %}
+</p>
+
+{% if publication.contribution %}
+  <p class="publication__contribution"><strong>Contribution:</strong> {{ publication.contribution }}</p>
+{% endif %}
+
+{% if publication.note %}
+  <p class="publication__note"><strong>Note:</strong> {{ publication.note }}</p>
+{% endif %}
+
+{% if publication.paperurl %}
+  <p><a href="{{ publication.paperurl }}">View paper</a></p>
+{% endif %}

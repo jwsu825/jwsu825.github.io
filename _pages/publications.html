@@ -11,26 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p><strong>Contribution labels:</strong> <sup>†</sup> corresponding author; <sup>*</sup> equal contribution. My name is shown in bold. Publications are ordered newest first; manuscripts without a publication year are listed separately.</p>
 
+{% assign publications = site.publications | sort: "sort_order" | reverse %}
+{% assign current_group = "" %}
+
+{% for post in publications %}
+  {% if post.display_group != current_group %}
+    {% unless forloop.first %}<hr />{% endunless %}
+    <h2>{{ post.display_group }}</h2>
+    {% assign current_group = post.display_group %}
+  {% endif %}
+  {% include archive-single-publication.html %}
+{% endfor %}
 
 
