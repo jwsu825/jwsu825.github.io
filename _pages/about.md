@@ -35,6 +35,8 @@ Strong candidates may have opportunities to continue into a PhD position at USTC
 
 News
 ======
+- will serve as an Area Chair for ICLR 2027
+- One paper (as corresponding author) is accepted to TMLR
 - One paper (as first author) is accepted to TMLR
 - One paper (as corresponding author) is accepted to KDD 2026
 - received Gold Reviewer Award from ICML 2026
@@ -44,8 +46,6 @@ News
 - one paper (as first author) is accepted to SIAM Journal on Mathematics of Data Science
 - one paper (as first author) is accepted to Transaction on Economic and Computation
 - will serve as an Area Chair for ICLR 2026
-- one paper (as corresponding author) is accepted to VLDB 2025
-- three papers (as first author) are accepted to ICML 2025
 
 ------
 
@@ -77,7 +77,7 @@ Working Projects
    Exploring the intersection of artificial intelligence and scientific/operational research, this project focuses on applying machine learning methods to solve complex scientific/operational problems, ranging from computational physics to biology and environmental science.
 
 4. **Agentic System**  
-   This project seeks to better understand the dynamics of agentic and to develop mechanisms and learning algorithms that enhance the performance of agentic system.
+   This project seeks to better understand the dynamics of agentic and to develop mechanisms and learning algorithms that enhance the performance of agentic system, especially post-training of LLM.
 
 ------
 

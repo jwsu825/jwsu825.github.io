@@ -8,6 +8,5 @@ publication_year: 2024
 display_group: "2024"
 sort_order: 2024
 status: "Conference paper"
-contribution: "Junwei Su - Co-author"
 paperurl: "https://i2.cs.hku.hk/~cwu/papers/tzqin-ickg24.pdf"
 ---

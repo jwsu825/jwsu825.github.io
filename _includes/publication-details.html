@@ -6,10 +6,6 @@
   <strong>{{ publication.venue }}</strong>{% if publication.publication_year %}, {{ publication.publication_year }}{% endif %}{% if publication.status %} · {{ publication.status }}{% endif %}
 </p>
 
-{% if publication.contribution %}
-  <p class="publication__contribution"><strong>Contribution:</strong> {{ publication.contribution }}</p>
-{% endif %}
-
 {% if publication.note %}
   <p class="publication__note"><strong>Note:</strong> {{ publication.note }}</p>
 {% endif %}

@@ -8,6 +8,5 @@ publication_year: 2025
 display_group: "2025"
 sort_order: 2025
 status: "Conference paper"
-contribution: "Junwei Su - First author"
 paperurl: "https://arxiv.org/pdf/2412.07273"
 ---

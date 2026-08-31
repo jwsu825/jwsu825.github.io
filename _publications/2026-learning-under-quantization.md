@@ -8,6 +8,5 @@ publication_year: 2026
 display_group: "2026"
 sort_order: 2026
 status: "Conference paper"
-contribution: "Junwei Su - Co-author"
 paperurl: "https://arxiv.org/pdf/2510.18259"
 ---

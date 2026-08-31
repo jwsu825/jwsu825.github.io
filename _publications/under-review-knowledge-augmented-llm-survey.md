@@ -7,6 +7,5 @@ venue: "Preprint"
 display_group: "Under Review"
 sort_order: 9999
 status: "Under review"
-contribution: "Junwei Su - Co-author"
 paperurl: "https://arxiv.org/pdf/2505.03418"
 ---
