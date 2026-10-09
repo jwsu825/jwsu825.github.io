@@ -56,11 +56,14 @@ The detailed schedule may be adjusted according to the pace of the class and rec
 
 ## Teaching Material
 
-- [Lecture 1 (PDF)](/teaching/RL/lecture-1.pdf)
+- [Course and Reinforcement Learning Overview (PDF)](/teaching/RL/RL-overview.pdf) — An overview of the course and reinforcement learning.
+- [Tabular Reinforcement Learning Summary (PDF)](/teaching/RL/tabularRL-summary.pdf) — A concise summary of the key concepts and methods in tabular reinforcement learning.
+- [Extended Tabular Reinforcement Learning Lecture Slides (Chinese, PDF)](/teaching/RL/tabular_rl_collection_zh.pdf) — Extended lecture slides covering tabular reinforcement learning in greater depth.
 
 ## Suggested References
 
-- Richard S. Sutton and Andrew G. Barto, *Reinforcement Learning: An Introduction*
+- [Sutton and Barto, *Reinforcement Learning: An Introduction*](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [*Mathematical Foundations of Reinforcement Learning*](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) — Chinese version available.
 - Csaba Szepesvári, *Algorithms for Reinforcement Learning*
 - Selected research papers and lecture notes provided during the course
 
